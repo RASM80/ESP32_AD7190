@@ -9,8 +9,8 @@
 //    https://wiki.analog.com/_media/resources/tools-software/uc-drivers/renesas/ad7190_generic.zip
 //    Copy: .\Documentation\ad7190_generic\
 
-#ifndef AD7190_H
-#define AD7190_H
+#ifndef AD7190_H_
+#define AD7190_H_
                                       // Debug prints levels:
 //#define AD7190_DEBUG_CALLS          //  Prints string at begining of class function execution
 //#define AD7190_DEBUG_VERBOSE        //  Print some more information
